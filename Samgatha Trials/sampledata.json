@@ -1,0 +1,34 @@
+
+[
+  {
+    "SAMID": "COE16B018",
+    "Name" : "Harini R",
+      "Info":{
+        "Email": "harini9804@gmail.com",
+        "Phone Number": 9444972543,
+        "Events Registered": [
+        "Singing","IEEE Workshop","How Close"
+      ]
+      }
+  },
+  {
+    "SAMID": "COE16B021",
+    "Name" : "Samhita",
+    "Info": {
+      "Email": "samhita2000@gmail.com",
+      "Phone Number": 9123123312
+    }
+  },
+  {
+    "SAMID": "COE16B021",
+    "Name" : "Pavithra Kond",
+    "Info":{
+      "Email": "kpav@gmail.com",
+      "Phone Number": 9182733643,
+      "Events Registered": [
+      "Dance Wars"
+    ]
+    }
+  }
+
+]
